@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/raphaelleveque/Desktop/cs/courses/udemy/DSA/ArrayADT/Array.cpp
+Array.h
+/Users/raphaelleveque/Desktop/cs/courses/udemy/DSA/ArrayADT/Array.h
+climits
+-
+
+/Users/raphaelleveque/Desktop/cs/courses/udemy/DSA/ArrayADT/Array.h
+iostream
+-
+
+/Users/raphaelleveque/Desktop/cs/courses/udemy/DSA/ArrayADT/main.cpp
+Array.cpp
+/Users/raphaelleveque/Desktop/cs/courses/udemy/DSA/ArrayADT/Array.cpp
+
