@@ -179,6 +179,7 @@ int Array<T>::sorted_insertion(T x) {
     if (i == 0)
         arr[i] = x;
     length++;
+    return 1;
 }
 
 template<typename T>
@@ -189,4 +190,21 @@ void Array<T>::reverse() {
         arr[i] = arr[j];
         arr[j] = tmp;
     }
+}
+
+template<typename T>
+Array<T> Array<T>::merge(Array<T> &arr2) {
+    int newsize = this->length + arr2.length;
+    Array<T> newarr(newsize, 0);
+    int i = 0, j = 0;
+    for (int k = 0; k < newsize; ++k) {
+        if (arr[i] < arr2[j] && i < this->length) {
+            newarr[k] = arr[i];
+            i++;
+        } else if (j < arr2.length) {
+            newarr[k] = arr2[j];
+            j++;
+        }
+    }
+    return newarr;
 }

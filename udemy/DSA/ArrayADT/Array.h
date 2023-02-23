@@ -26,6 +26,7 @@ public:
     int isSorted();
     int sorted_insertion(T x);
     void reverse();
+    Array<T> merge(Array<T> &arr2);
 };
 
 #endif //ARRAYADT_ARRAY_H
