@@ -1,7 +1,6 @@
 file(REMOVE_RECURSE
   "ArrayADT"
   "ArrayADT.pdb"
-  "CMakeFiles/ArrayADT.dir/Array.cpp.o"
   "CMakeFiles/ArrayADT.dir/main.cpp.o"
 )
 

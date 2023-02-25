@@ -194,17 +194,98 @@ void Array<T>::reverse() {
 
 template<typename T>
 Array<T> Array<T>::merge(Array<T> &arr2) {
-    int newsize = this->length + arr2.length;
-    Array<T> newarr(newsize, 0);
+    Array<T> newarr;
     int i = 0, j = 0;
-    for (int k = 0; k < newsize; ++k) {
-        if (arr[i] < arr2[j] && i < this->length) {
-            newarr[k] = arr[i];
+    while (i < this->length && j < arr2.length) {
+        if (arr[i] < arr2[j])
+            newarr.append(arr[i++]);
+        else if (arr2[j] < arr[i])
+            newarr.append(arr2[j++]);
+        else {
+            newarr.append(arr[i]);
             i++;
-        } else if (j < arr2.length) {
-            newarr[k] = arr2[j];
             j++;
         }
     }
+    while (i < this->length) {
+        newarr.append(arr[i++]);
+    }
+    while (j < arr2.length) {
+        newarr.append(arr2[j++]);
+    }
+    return newarr;
+}
+
+// Union operation only works with sets, that means, with unique elements
+template<typename T>
+Array<T> Array<T>::Union(Array<T> &arr2) {
+    Array<T> newarr;
+    if (this->isSorted() && arr2.isSorted()) {
+        int i = 0, j = 0;
+        while (i < this->length && j < arr2.length) {
+            if (arr[i] < arr2[j])
+                newarr.append(arr[i++]);
+            else if (arr2[j] < arr[i])
+                newarr.append(arr2[j++]);
+            else {
+                newarr.append(arr[i]);
+                i++;
+                j++;
+            }
+        }
+        while (i < this->length) {
+            newarr.append(arr[i++]);
+        }
+        while (j < arr2.length) {
+            newarr.append(arr2[j++]);
+        }
+    } else {
+        for (int i = 0; i < this->size(); i++) {
+            newarr.append(this->arr[i]);
+        }
+        int i, j;
+        for (i = 0; i < arr2.size(); ++i) {
+            for (j = 0; j < this->length; ++j) {
+                if (arr2[i] == arr[j])
+                    break;
+            }
+            if (j == this->length)
+                newarr.append(arr2[i]);
+        }
+    }
+
+    return newarr;
+}
+
+template<typename T>
+Array<T> Array<T>::Difference(Array<T> &arr2) {
+    Array<T> newarr;
+    if (this->isSorted() && arr2.isSorted()) {
+        int i = 0, j = 0;
+        while (i < this->length && j < arr2.length) {
+            if (arr[i] < arr2[j])
+                newarr.append(arr[i++]);
+            else if (arr2[j] < arr[i])
+                newarr.append(arr2[j++]);
+            else {
+                i++;
+                j++;
+            }
+        }
+        while (i < this->length) {
+            newarr.append(arr[i++]);
+        }
+    } else {
+        int i, j;
+        for (i = 0; i < this->size(); i++) {
+            for (j = 0; j < arr2.length; ++j) {
+                if (arr[i] == arr2[j])
+                    break;
+            }
+            if (j == arr2.length)
+                newarr.append(arr[i]);
+        }
+    }
+
     return newarr;
 }

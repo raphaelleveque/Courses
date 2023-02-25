@@ -27,7 +27,14 @@ public:
     int sorted_insertion(T x);
     void reverse();
     Array<T> merge(Array<T> &arr2);
+
+    // Union operation only works with sets, that means, with unique elements
+    Array<T> Union(Array<T> &arr2);
+    // Difference operation only works with sets, that means, with unique elements
+    Array<T> Difference(Array<T> &arr2);
 };
+
+#include "Array.cpp"
 
 #endif //ARRAYADT_ARRAY_H
 

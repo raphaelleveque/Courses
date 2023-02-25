@@ -129,30 +129,6 @@ ArrayADT/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ArrayADT.dir/build.make CMakeFiles/ArrayADT.dir/build
 .PHONY : ArrayADT/fast
 
-Array.o: Array.cpp.o
-.PHONY : Array.o
-
-# target to build an object file
-Array.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ArrayADT.dir/build.make CMakeFiles/ArrayADT.dir/Array.cpp.o
-.PHONY : Array.cpp.o
-
-Array.i: Array.cpp.i
-.PHONY : Array.i
-
-# target to preprocess a source file
-Array.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ArrayADT.dir/build.make CMakeFiles/ArrayADT.dir/Array.cpp.i
-.PHONY : Array.cpp.i
-
-Array.s: Array.cpp.s
-.PHONY : Array.s
-
-# target to generate assembly for a file
-Array.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/ArrayADT.dir/build.make CMakeFiles/ArrayADT.dir/Array.cpp.s
-.PHONY : Array.cpp.s
-
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -186,9 +162,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... ArrayADT"
-	@echo "... Array.o"
-	@echo "... Array.i"
-	@echo "... Array.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
