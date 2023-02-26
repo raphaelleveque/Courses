@@ -57,6 +57,11 @@ void Array<T>::append(T x) {
 }
 
 template<typename T>
+void Array<T>::pop_back() {
+    arr[length - 1] = 0;
+    length--;
+}
+template<typename T>
 void Array<T>::insert(int index, T x) {
     if (index < 0 || index > length) return;
     if (length == max_size) {
@@ -146,7 +151,7 @@ int Array<T>::min() {
 }
 
 template<typename T>
-int Array<T>::isSorted() {
+bool Array<T>::isSorted() {
     for (int i = 0; i < length - 1; ++i) {
         if (arr[i] > arr[i + 1])
             return false;
@@ -157,7 +162,7 @@ int Array<T>::isSorted() {
 
 template<typename T>
 int Array<T>::sorted_insertion(T x) {
-    if (isSorted() == -1)
+    if (!isSorted())
         return -1;
 
     if (length == max_size) {
@@ -288,4 +293,13 @@ Array<T> Array<T>::Difference(Array<T> &arr2) {
     }
 
     return newarr;
+}
+
+template<typename T>
+ostream& operator<<(ostream &os, Array<T> &arr) {
+    for (int i = 0; i < arr.size(); ++i) {
+        os << arr[i] << " ";
+    }
+    os << endl;
+    return os;
 }
