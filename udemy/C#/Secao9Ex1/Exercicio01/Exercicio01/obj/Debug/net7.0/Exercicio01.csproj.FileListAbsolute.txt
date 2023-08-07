@@ -1,0 +1,15 @@
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/bin/Debug/net7.0/Exercicio01
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/bin/Debug/net7.0/Exercicio01.deps.json
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/bin/Debug/net7.0/Exercicio01.runtimeconfig.json
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/bin/Debug/net7.0/Exercicio01.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/bin/Debug/net7.0/Exercicio01.pdb
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/obj/Debug/net7.0/Exercicio01.csproj.AssemblyReference.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/obj/Debug/net7.0/Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/obj/Debug/net7.0/Exercicio01.AssemblyInfoInputs.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/obj/Debug/net7.0/Exercicio01.AssemblyInfo.cs
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/obj/Debug/net7.0/Exercicio01.csproj.CoreCompileInputs.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/obj/Debug/net7.0/Exercicio01.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/obj/Debug/net7.0/refint/Exercicio01.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/obj/Debug/net7.0/Exercicio01.pdb
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/obj/Debug/net7.0/Exercicio01.genruntimeconfig.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Secao9Ex1/Exercicio01/Exercicio01/obj/Debug/net7.0/ref/Exercicio01.dll
