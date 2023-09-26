@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{73C96435-0F6E-4BAF-A9C7-37D7EA556A85}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="155Excecoes/Program.cs">
+    <Files>
+      <File FileName="155Excecoes/Program.cs" Line="2" Column="1" />
+      <File FileName="155Excecoes/Entities/Account.cs" Line="1" Column="1" />
+      <File FileName="155Excecoes/Entities/Exceptions/Exceptions.cs" Line="1" Column="1" />
+      <File FileName="155Excecoes/Entities/Exceptions/AmountGraterThanLimitException.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="155Excecoes" expanded="True">
+            <Node name="155Excecoes">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.155Excecoes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

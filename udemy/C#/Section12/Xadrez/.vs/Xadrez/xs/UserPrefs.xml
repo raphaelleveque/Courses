@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{E34143FA-0132-42DA-A00D-F983F6F866F1}|Default">
+  <MonoDevelop.Ide.ItemProperties.Xadrez PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Xadrez/JogoXadrez/PartidaDeXadrez.cs">
+    <Files>
+      <File FileName="Xadrez/Program.cs" Line="11" Column="30" IsPinned="True" />
+      <File FileName="Xadrez/Tela.cs" Line="27" Column="1" />
+      <File FileName="Xadrez/TabuleiroClasses/Tabuleiro.cs" Line="3" Column="18" />
+      <File FileName="Xadrez/JogoXadrez/PosicaoXadrez.cs" Line="12" Column="24" />
+      <File FileName="Xadrez/TabuleiroClasses/Posicao.cs" />
+      <File FileName="Xadrez/JogoXadrez/Torre.cs" Line="20" Column="60" />
+      <File FileName="Xadrez/JogoXadrez/PartidaDeXadrez.cs" Line="144" Column="13" />
+      <File FileName="Xadrez/TabuleiroClasses/Cor.cs" />
+      <File FileName="Xadrez/TabuleiroClasses/Peca.cs" Line="6" Column="36" />
+      <File FileName="Xadrez/JogoXadrez/Rei.cs" Line="12" Column="39" />
+      <File FileName="Xadrez/JogoXadrez/Bispo.cs" Line="13" Column="35" />
+      <File FileName="Xadrez/JogoXadrez/Cavalo.cs" Line="27" Column="71" />
+      <File FileName="Xadrez/JogoXadrez/Dama.cs" Line="11" Column="10" />
+      <File FileName="Xadrez/JogoXadrez/Peao.cs" Line="9" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Xadrez" expanded="True">
+            <Node name="Xadrez">
+              <Node name="JogoXadrez">
+                <Node name="PartidaDeXadrez.cs" selected="True" />
+              </Node>
+              <Node name="TabuleiroClasses" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/obj/Debug/net7.0/Xadrez.csproj.AssemblyReference.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/obj/Debug/net7.0/Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/obj/Debug/net7.0/Xadrez.AssemblyInfoInputs.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/obj/Debug/net7.0/Xadrez.AssemblyInfo.cs
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/obj/Debug/net7.0/Xadrez.csproj.CoreCompileInputs.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/bin/Debug/net7.0/Xadrez
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/bin/Debug/net7.0/Xadrez.deps.json
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/bin/Debug/net7.0/Xadrez.runtimeconfig.json
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/bin/Debug/net7.0/Xadrez.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/bin/Debug/net7.0/Xadrez.pdb
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/obj/Debug/net7.0/Xadrez.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/obj/Debug/net7.0/refint/Xadrez.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/obj/Debug/net7.0/Xadrez.pdb
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/obj/Debug/net7.0/Xadrez.genruntimeconfig.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section12/Xadrez/Xadrez/obj/Debug/net7.0/ref/Xadrez.dll

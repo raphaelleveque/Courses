@@ -1,0 +1,15 @@
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/bin/Debug/net7.0/142HerancaPolimorfismo
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/bin/Debug/net7.0/142HerancaPolimorfismo.deps.json
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/bin/Debug/net7.0/142HerancaPolimorfismo.runtimeconfig.json
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/bin/Debug/net7.0/142HerancaPolimorfismo.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/bin/Debug/net7.0/142HerancaPolimorfismo.pdb
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/obj/Debug/net7.0/142HerancaPolimorfismo.csproj.AssemblyReference.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/obj/Debug/net7.0/142HerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/obj/Debug/net7.0/142HerancaPolimorfismo.AssemblyInfoInputs.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/obj/Debug/net7.0/142HerancaPolimorfismo.AssemblyInfo.cs
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/obj/Debug/net7.0/142HerancaPolimorfismo.csproj.CoreCompileInputs.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/obj/Debug/net7.0/142HerancaPolimorfismo.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/obj/Debug/net7.0/refint/142HerancaPolimorfismo.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/obj/Debug/net7.0/142HerancaPolimorfismo.pdb
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/obj/Debug/net7.0/142HerancaPolimorfismo.genruntimeconfig.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/142HerancaPolimorfismo/142HerancaPolimorfismo/obj/Debug/net7.0/ref/142HerancaPolimorfismo.dll

@@ -1,0 +1,15 @@
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/bin/Debug/net7.0/145MetodosAbstratos
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/bin/Debug/net7.0/145MetodosAbstratos.deps.json
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/bin/Debug/net7.0/145MetodosAbstratos.runtimeconfig.json
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/bin/Debug/net7.0/145MetodosAbstratos.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/bin/Debug/net7.0/145MetodosAbstratos.pdb
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/obj/Debug/net7.0/145MetodosAbstratos.csproj.AssemblyReference.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/obj/Debug/net7.0/145MetodosAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/obj/Debug/net7.0/145MetodosAbstratos.AssemblyInfoInputs.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/obj/Debug/net7.0/145MetodosAbstratos.AssemblyInfo.cs
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/obj/Debug/net7.0/145MetodosAbstratos.csproj.CoreCompileInputs.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/obj/Debug/net7.0/145MetodosAbstratos.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/obj/Debug/net7.0/refint/145MetodosAbstratos.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/obj/Debug/net7.0/145MetodosAbstratos.pdb
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/obj/Debug/net7.0/145MetodosAbstratos.genruntimeconfig.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section10/145MetodosAbstratos/145MetodosAbstratos/obj/Debug/net7.0/ref/145MetodosAbstratos.dll

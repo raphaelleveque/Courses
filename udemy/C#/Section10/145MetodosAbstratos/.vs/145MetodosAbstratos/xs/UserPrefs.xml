@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2444C3B8-6565-4A82-BC06-4B6C93369951}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="145MetodosAbstratos/Entities/Shape.cs">
+    <Files>
+      <File FileName="145MetodosAbstratos/Program.cs" Line="36" Column="50" />
+      <File FileName="145MetodosAbstratos/Entities/Shape.cs" Line="9" Column="1" />
+      <File FileName="145MetodosAbstratos/Entities/Rectangle.cs" Line="13" Column="35" />
+      <File FileName="145MetodosAbstratos/Entities/Circle.cs" Line="11" Column="47" />
+      <File FileName="145MetodosAbstratos/Color.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="145MetodosAbstratos" expanded="True">
+            <Node name="145MetodosAbstratos">
+              <Node name="Entities" expanded="True">
+                <Node name="Shape.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.145MetodosAbstratos PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

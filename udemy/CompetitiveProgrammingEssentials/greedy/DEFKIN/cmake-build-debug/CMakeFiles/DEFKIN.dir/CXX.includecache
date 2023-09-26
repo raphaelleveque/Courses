@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/raphaelleveque/Desktop/cs/courses/udemy/CompetitiveProgrammingEssentials/greedy/DEFKIN/defkin.cpp
+bits/stdc++.h
+-
+

@@ -1,0 +1,3 @@
+/Users/raphaelleveque/Desktop/cs/courses/udemy/CompetitiveProgrammingEssentials/greedy/minTaps/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/raphaelleveque/Desktop/cs/courses/udemy/CompetitiveProgrammingEssentials/greedy/minTaps/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/raphaelleveque/Desktop/cs/courses/udemy/CompetitiveProgrammingEssentials/greedy/minTaps/cmake-build-debug/CMakeFiles/minTaps.dir
