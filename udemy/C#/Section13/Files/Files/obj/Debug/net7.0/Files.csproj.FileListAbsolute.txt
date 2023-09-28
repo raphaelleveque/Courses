@@ -1,0 +1,15 @@
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/bin/Debug/net7.0/Files
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/bin/Debug/net7.0/Files.deps.json
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/bin/Debug/net7.0/Files.runtimeconfig.json
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/bin/Debug/net7.0/Files.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/bin/Debug/net7.0/Files.pdb
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/obj/Debug/net7.0/Files.csproj.AssemblyReference.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/obj/Debug/net7.0/Files.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/obj/Debug/net7.0/Files.AssemblyInfoInputs.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/obj/Debug/net7.0/Files.AssemblyInfo.cs
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/obj/Debug/net7.0/Files.csproj.CoreCompileInputs.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/obj/Debug/net7.0/Files.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/obj/Debug/net7.0/refint/Files.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/obj/Debug/net7.0/Files.pdb
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/obj/Debug/net7.0/Files.genruntimeconfig.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section13/Files/Files/obj/Debug/net7.0/ref/Files.dll
