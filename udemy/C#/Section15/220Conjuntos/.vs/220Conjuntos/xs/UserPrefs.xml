@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9B5E8BE3-CB62-4B0B-863B-7A3074643701}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="220Conjuntos/Program.cs">
+    <Files>
+      <File FileName="220Conjuntos/Program.cs" Line="12" Column="15" />
+      <File FileName="220Conjuntos/Logs.txt" Line="7" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="220Conjuntos" expanded="True">
+            <Node name="220Conjuntos">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.220Conjuntos PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{3F79B8D9-AEFB-445C-B360-3FA8E34C6FBF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="208Interfaces/Entities/Installments.cs">
+    <Files>
+      <File FileName="208Interfaces/Program.cs" Line="18" Column="1" />
+      <File FileName="208Interfaces/Entities/Contrato.cs" Line="9" Column="72" />
+      <File FileName="208Interfaces/Entities/Installments.cs" Line="14" Column="37" />
+      <File FileName="208Interfaces/Payments/OnlinePaymentService.cs" Line="5" Column="52" />
+      <File FileName="208Interfaces/Payments/ContractService.cs" Line="9" Column="1" />
+      <File FileName="208Interfaces/Payments/PaypalService.cs" Line="5" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="208Interfaces">
+            <Node name="208Interfaces">
+              <Node name="Entities" expanded="True" />
+              <Node name="Payments" expanded="True">
+                <Node name="ContractService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.208Interfaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

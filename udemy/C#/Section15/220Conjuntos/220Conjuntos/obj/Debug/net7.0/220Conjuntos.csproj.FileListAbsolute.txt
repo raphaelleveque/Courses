@@ -1,0 +1,15 @@
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/bin/Debug/net7.0/220Conjuntos
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/bin/Debug/net7.0/220Conjuntos.deps.json
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/bin/Debug/net7.0/220Conjuntos.runtimeconfig.json
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/bin/Debug/net7.0/220Conjuntos.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/bin/Debug/net7.0/220Conjuntos.pdb
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/obj/Debug/net7.0/220Conjuntos.csproj.AssemblyReference.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/obj/Debug/net7.0/220Conjuntos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/obj/Debug/net7.0/220Conjuntos.AssemblyInfoInputs.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/obj/Debug/net7.0/220Conjuntos.AssemblyInfo.cs
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/obj/Debug/net7.0/220Conjuntos.csproj.CoreCompileInputs.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/obj/Debug/net7.0/220Conjuntos.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/obj/Debug/net7.0/refint/220Conjuntos.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/obj/Debug/net7.0/220Conjuntos.pdb
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/obj/Debug/net7.0/220Conjuntos.genruntimeconfig.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/C#/Section15/220Conjuntos/220Conjuntos/obj/Debug/net7.0/ref/220Conjuntos.dll

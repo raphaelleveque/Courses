@@ -1,0 +1,15 @@
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/obj/Debug/net7.0/208Interfaces.csproj.AssemblyReference.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/obj/Debug/net7.0/208Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/obj/Debug/net7.0/208Interfaces.AssemblyInfoInputs.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/obj/Debug/net7.0/208Interfaces.AssemblyInfo.cs
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/obj/Debug/net7.0/208Interfaces.csproj.CoreCompileInputs.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/bin/Debug/net7.0/208Interfaces
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/bin/Debug/net7.0/208Interfaces.deps.json
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/bin/Debug/net7.0/208Interfaces.runtimeconfig.json
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/bin/Debug/net7.0/208Interfaces.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/bin/Debug/net7.0/208Interfaces.pdb
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/obj/Debug/net7.0/208Interfaces.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/obj/Debug/net7.0/refint/208Interfaces.dll
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/obj/Debug/net7.0/208Interfaces.pdb
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/obj/Debug/net7.0/208Interfaces.genruntimeconfig.cache
+/Users/raphaelleveque/Desktop/cs/courses/udemy/Section14/208Interfaces/208Interfaces/obj/Debug/net7.0/ref/208Interfaces.dll
