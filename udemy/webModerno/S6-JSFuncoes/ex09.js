@@ -1,0 +1,3 @@
+function calculoNota(nota) {
+    
+}
