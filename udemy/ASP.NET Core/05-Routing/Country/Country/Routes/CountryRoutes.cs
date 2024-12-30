@@ -21,7 +21,7 @@ namespace Country.Routes
                 return Results.Ok(countriesData.Countries);
             });
 
-            app.MapGet("/countries/{countryId:int}", (int countryID) =>
+            app.MapGet("/countries/{countryId:int:range(1,100)}", (int countryID) =>
             {
                 if (countriesData.Countries.ContainsKey(countryID)) return Results.Ok(countriesData.Countries[countryID]);
                 return Results.NotFound();
@@ -39,7 +39,7 @@ namespace Country.Routes
                 return Results.Ok(new { Count = countriesData.Countries.Count });
             });
 
-            app.MapGet("/countries/languages/{language}", (string language) =>
+            app.MapGet("/countries/language/{language}", (string language) =>
             {
                 var countries = countriesData.Countries.Values
                     .Where(c => c.Languages.Any(lang =>

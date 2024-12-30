@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "IIS Express": {
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "commandName": "IISExpress"
+    },
+    "ProjectName": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:5000",
+      "browserLink": true,
+      "dotnetRunMessages": true
+    }
+  }
+}

@@ -1,4 +1,33 @@
 ﻿<Properties StartupConfiguration="{4DF983BB-37CC-4666-9603-B9C74437C5D0}|https">
-  <MonoDevelop.Ide.ItemProperties.Country FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Country PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Country/appsettings.json">
+    <Files>
+      <File FileName="Country/Program.cs" Line="9" Column="98" />
+      <File FileName="Country/appsettings.json" Line="11" Column="13" />
+      <File FileName="Country/Routes/CountryRoutes.cs" Line="24" Column="63" />
+      <File FileName="Country/Models/Country.cs" Line="11" Column="6" />
+      <File FileName="Country/Models/Countries.cs" Line="4" Column="15" />
+      <File FileName="Country/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Country/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Country">
+            <Node name="Country">
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
