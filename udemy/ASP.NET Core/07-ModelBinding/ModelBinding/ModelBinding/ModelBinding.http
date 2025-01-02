@@ -1,0 +1,65 @@
+### Create Order (Valid)
+POST http://localhost:5076/api/order
+Content-Type: application/json
+
+{
+  "Date": "2025-12-31T22:00:00",
+  "InvoicePrice": 160,
+  "Products": [
+    {
+      "ProductCode": 1,
+      "Price": 15,
+      "Quantity": 10
+    },
+    {
+      "ProductCode": 2,
+      "Price": 2,
+      "Quantity": 5
+    }
+  ]
+}
+
+###
+
+### Create Order (Invalid Invoice Price)
+POST http://localhost:5076/api/order
+Content-Type: application/json
+
+{
+  "Date": "2025-12-31T22:00:00",
+  "InvoicePrice": 170,
+  "Products": [
+    {
+      "ProductCode": 1,
+      "Price": 15,
+      "Quantity": 10
+    },
+    {
+      "ProductCode": 2,
+      "Price": 2,
+      "Quantity": 5
+    }
+  ]
+}
+
+###
+
+### Create Order (Missing OrderDate)
+POST http://localhost:5076/api/order
+Content-Type: application/json
+
+{
+  "InvoicePrice": 160,
+  "Products": [
+    {
+      "ProductCode": 1,
+      "Price": 15,
+      "Quantity": 10
+    },
+    {
+      "ProductCode": 2,
+      "Price": 2,
+      "Quantity": 5
+    }
+  ]
+}
