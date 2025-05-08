@@ -14,8 +14,8 @@ const connection = mysql.createConnection(config)
 
 connection.connect((err) => {
     if (err) {
-        console.log(`Não foi possível se conectar ao banco de dados. Erro: ${err}`)
-        return
+        console.log(`Erro fatal: Não foi possível se conectar ao banco de dados. Erro: ${err}`)
+        process.exit(1)
     }
     console.log('Conexão executada com sucesso!')
 })
@@ -46,6 +46,15 @@ app.get('/listar', (req, res) => {
     })
 })
 
+app.get('/admin', (req, res) => {
+    if (req.headers['x-nginx-proxy']) {
+        res.send('<h1>Admin Page</h1><p>This page is only accessible through Nginx.</p>');
+    } else {
+        res.status(403).send('Access Denied');
+    }
+});
+
+
 app.get('/:name', (req, res) => {
     const name = req.params.name;
     const query = `INSERT INTO PEOPLE (Names) VALUES ('${name}')`
@@ -58,4 +67,6 @@ app.get('/:name', (req, res) => {
         res.send(`<h1>Hello ${name}!</h1>`)
     })
 })
+
+
 
