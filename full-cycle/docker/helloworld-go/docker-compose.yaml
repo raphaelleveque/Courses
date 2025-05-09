@@ -1,8 +1,8 @@
 services:
   app:
+    image: raphaellev/hello-go:latest
     build:
       context: .
       dockerfile: Dockerfile
     ports:
       - "3000:3000"
-    
