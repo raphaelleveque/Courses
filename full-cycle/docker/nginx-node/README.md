@@ -4,18 +4,6 @@ Esta é uma aplicação Node.js com Nginx como proxy reverso e MySQL como banco 
 
 ## Como executar
 
-### Usando Docker Hub
-
-A maneira mais simples de executar a aplicação é usando a imagem pré-construída do Docker Hub:
-
-```bash
-# Baixar a imagem
-docker pull raphaellev/nginx-node:latest
-
-# Executar o container
-docker run -p 3000:3000 raphaellev/nginx-node:latest
-```
-
 ### Usando Docker Compose (desenvolvimento local)
 
 Se você quiser executar o ambiente completo com Nginx e MySQL:
@@ -23,7 +11,7 @@ Se você quiser executar o ambiente completo com Nginx e MySQL:
 1. Clone este repositório
 2. Execute:
 ```bash
-docker compose up
+docker compose up --build
 ```
 
 ## Portas
