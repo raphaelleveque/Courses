@@ -9,7 +9,7 @@
   "author": "Raphael Leveque",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0",
+    "express": "^4.21.2",
     "mysql2": "^3.14.1"
   }
 }
